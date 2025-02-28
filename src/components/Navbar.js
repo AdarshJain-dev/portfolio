@@ -36,7 +36,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" target="_self">
-          <MdDeveloperMode style={{ marginBottom: "2px" }} /> Prasam Jain
+          <MdDeveloperMode style={{ marginBottom: "2px" }} /> Adarsh Jain
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
