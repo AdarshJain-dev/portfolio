@@ -6,24 +6,24 @@ import TASK from "./Assets/Projects/textmate.jpg";
 export const PROJECTS = [
   {
     image: SHOP,
-    name: "ShopHouse Local",
-    technologyUsed: "HTML/Css, Javascript, NodeJs, ExpressJs, MongoDB",
-    description: "ShopHouse Local is a team project, developed for connecting local shops to their regular customers by online platform and thus also avoiding hustle of standing in queue in them.",
-    url: "https://shophouse-local.onrender.com/",
+    name: "Meraki Dashboard Automation",
+    technologyUsed: "Ansible, Git/GitHub, Powershell, Meraki APi Integration, ",
+    description: "Developed end-to-end automation for managing Meraki network access points using PowerShell and Ansible. Integrated Meraki Dashboard API to fetch device status, automate reboots, and generate custom reports. Streamlined processes with CSV exports and proactive email notifications, reducing manual intervention by 80% and minimizing network downtime through efficient monitoring and automation.",
+    //url: "https://shophouse-local.onrender.com/",
   },
   {
     image: TASK,
-    name: "TextMate",
-    technologyUsed: "ReactJS, Material UI, Tailwind CSS, OpenAI API",
-    description: "Built a Single Page web application that corrects grammar and enhances sentence tone to professional, curious and more. Users just have to enter a sentence and live it to rest on the application.",
-    url: "https://text-mate.vercel.app/",
+    name: "Azure AD and Stale Accounts Cleanup Automation",
+    technologyUsed: "PowerShell, Azure AD, Microsoft Graph API, Git/GitHub",
+    description: "Developed a PowerShell script to automate the cleanup of stale accounts in Azure AD. The script fetches user details from Azure AD using Microsoft Graph API, identifies inactive accounts based on last login date, and disables them. Scheduled the script to run daily, reducing the risk of unauthorized access and ensuring compliance with security policies.",
+    //url: "https://text-mate.vercel.app/",
   },
   {
     image: TODO,
-    name: "Task-Tracker WebApp",
-    technologyUsed: "HTML, CSS, Javascript, NodeJs, MongoDB",
-    description: "Task Tracker is a simple yet effective web app that helps you keep track of your daily tasks and to-dos. With an intuitive interface, you can easily create a list of items you need to complete for the day and mark them as done when finished.",
-    url: "https://task-tracker-gept.onrender.com/",
+    name: "AWS Cloud Infrastructure Automation",
+    technologyUsed: "Python, Ansible, AWS, Git/GitHub",
+    description: "Automated the deployment of AWS cloud infrastructure using Python and Ansible. Developed playbooks to provision EC2 instances, configure security groups, and deploy applications. Integrated with AWS CLI to manage resources, monitor performance, and ensure high availability. Reduced deployment time by 50% and improved scalability by automating resource provisioning.",
+    //url: "https://task-tracker-gept.onrender.com/",
   }
 ];
 
