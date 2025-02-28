@@ -1,6 +1,6 @@
-import SHOP from "./Assets/Projects/shop.jpg";
-import TODO from "./Assets/Projects/todo.jpg";
-import TASK from "./Assets/Projects/textmate.jpg";
+import SHOP from "./Assets/Projects/Meraki.jpg";
+import TODO from "./Assets/Projects/AWS.jpg";
+import TASK from "./Assets/Projects/AD.jpg";
 
 
 export const PROJECTS = [
