@@ -11,10 +11,9 @@ function AboutCard() {
             from <span className="purple"> Raghogarh, Guna, India.</span>
             <br />
             <br />
-            My primary focus is on building robust, efficient, and user-friendly solutions across web development, automation, and DevOps.  
-            <br />I believe that a great application not only looks appealing but also delivers a seamless and optimized user experience.  
-            <br />With expertise in Python, PowerShell, MySQL, PHP, and a wide range of DevOps tools, I’m always eager to take on new challenges  
-            and collaborate on projects that drive innovation and exceed expectations.  
+            I work with a wide range of DevOps and automation technologies, including Python, PowerShell, Bash and JavaScript for scripting and tooling. 
+            <br />I build and manage infrastructure using Terraform, Ansible, Linux and cloud platforms like AWS, Azure and GCP. I create CI/CD pipelines using Jenkins and GitHub Actions, and deploy containerized applications with Docker, Kubernetes and Helm.
+            <br /> I also use monitoring and observability tools such as Grafana, Prometheus and synthetic monitoring to ensure system reliability. Along with this, I automate AD, networking and O365 tasks, troubleshoot production issues and maintain strong version control practices using Git and GitHub.
             <br /><br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -23,7 +22,7 @@ function AboutCard() {
               <ImPointRight /> Experncing new Technologies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Onfile Games
+              <ImPointRight /> Playing with AI
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
