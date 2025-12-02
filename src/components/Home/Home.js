@@ -18,7 +18,7 @@ function Home() {
               <h1 className="heading-name">
                 I'm
                 <strong className="main-name"> Adarsh Kumar Jain</strong>
-                <h4>( DevOps Automation Engineer )</h4>
+                <h4>( DevOps Engineer | Automation )</h4>
               </h1>
                 <br/>
               <p className="heading-description blockquote">
