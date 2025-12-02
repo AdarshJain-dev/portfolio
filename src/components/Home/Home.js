@@ -22,11 +22,12 @@ function Home() {
               </h1>
                 <br/>
               <p className="heading-description blockquote">
-              "DevOps Automation Engineer with expertise in building scalable automation solutions and cloud deployments.
-                Skilled in Python, PowerShell, PHP, and MySQL, with a strong command of front-end technologies like HTML,
-                CSS, JavaScript, and React.js. Proficient in tools like Ansible, Bash, Git, and GitHub, and experienced with
-                cloud platforms Azure and AWS. Passionate about streamlining workflows, enhancing system performance, and
-                driving innovation through automation."
+              "I’m a DevOps Automation Engineer with 3+ years of experience in building automated, scalable and secure cloud environments. 
+              I work on AWS, Kubernetes, Terraform, Jenkins and Ansible to create reliable CI/CD pipelines and infrastructure that support 
+              high-performance applications. I enjoy automating manual tasks using Python, PowerShell and Bash, improving system reliability, 
+              and solving real-world technical problems. I’ve contributed to enterprise projects like Office Depot (ODP), McLaren HealthCare and RBI, 
+              where I helped streamline deployments, enhance monitoring and support production systems. My focus is on delivering clean automation, 
+              stable infrastructure and smooth release cycles."
               </p>
 
             </Col>
